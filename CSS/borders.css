@@ -1,0 +1,14 @@
+h1 {
+  border-style: inset;
+  border-width: 1px;
+  border-color: black;
+  border-radius: 20px;
+}
+p {
+  border-bottom: 3px solid rgb(199, 25, 25);
+  border-top: 3px solid rgb(241, 241, 32);
+  border-left: 3px dotted rgb(57, 57, 243);
+  border-right: 3px dotted rgb(64, 236, 64);
+
+  border-radius: 10px;
+}

@@ -1,0 +1,32 @@
+/* a:link {
+  color: rgb(205, 205, 238);
+}
+a:hover {
+  color: rgb(205, 205, 237);
+  font-size: 1.5em;
+}
+a:active {
+  color: rgb(49, 239, 49);
+  font-size: 1.5em;
+}
+a:visited {
+  color: rgb(80, 227, 80);
+} */
+/* li:hover {
+  background-color: rgb(53, 232, 232);
+}
+li:not(:hover) {
+  background-color: rgb(166, 180, 180);
+} */
+
+/* li:nth-child(3n + 1) {
+  background-color: rgb(75, 78, 78);
+} */
+#greeting p {
+  background-color: rgb(139, 240, 240);
+  padding: 10px;
+  display: none;
+}
+#greeting:hover p {
+  display: block;
+}

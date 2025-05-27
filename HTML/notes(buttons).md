@@ -101,7 +101,7 @@ type="reset" Resets form fields Forms
 type="button" General actions JavaScript triggers
 disabled Makes the button unclickable Validation, UX control
 
-Real-World Use Cases
+Use Cases
 
 1.Login Button
 

@@ -1,0 +1,15 @@
+@font-face {
+  font-family: Poppins-Light;
+  src: url(font/Poppins-Light.ttf);
+}
+@font-face {
+  font-family: Poppins-Italic;
+  src: url(font/Poppins-Italic.ttf);
+}
+h1 {
+  font-family: Poppins-Italic;
+}
+p {
+  font-family: Poppins-Italic;
+  font-size: 1em;
+}

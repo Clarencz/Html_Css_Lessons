@@ -1,0 +1,36 @@
+body {
+  background-color: black;
+}
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+#p1 {
+  color: rebeccapurple;
+  font-size: 20px;
+  text-align: center;
+}
+#p2 {
+  color: green;
+  font-size: 20px;
+  text-align: center;
+}
+#p3 {
+  color: red;
+  font-size: 20px;
+  text-align: center;
+}
+#p4 {
+  color: yellow;
+  font-size: 20px;
+  text-align: center;
+}
+.even {
+  font-size: 20px;
+  text-align: center;
+}
+.odd {
+  font-size: 5px;
+  text-align: center;
+}

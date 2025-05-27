@@ -1,0 +1,33 @@
+body {
+  margin: 0px;
+}
+.box {
+  width: 150px;
+  height: 150px;
+  border: 5px solid;
+  font-size: 8em;
+  text-align: center;
+
+  /* transform: translateX(50px);
+  transform: translateY(50px); */
+  /* transform: translate(50px, 50px); */
+  /* transform: rotateX(60deg);
+  transform: rotateY(45deg); */
+  /* transform: rotateZ(63deg); */
+  /* transform: scaleX();
+  transform: scaleY(); */
+  /* transform: scale(3,3); */
+
+  /* transform: skew(); */
+
+  transform: translateX(100%) rotateZ(60deg) scale(0.5);
+}
+#box1 {
+  background-color: rgb(47, 47, 241);
+}
+#box2 {
+  background-color: rgb(237, 237, 97);
+}
+#box3 {
+  background-color: rgb(23, 22, 22);
+}
