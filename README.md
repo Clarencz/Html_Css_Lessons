@@ -1,6 +1,6 @@
 # HTML & CSS  Resource
 
-This repository contains the exact **HTML and CSS notes, code samples, and references** I personally use to teach HTML & CSS — whether during 1-on-1 lessons, workshops, or guided self-learning.
+This repository contains the exact **HTML and CSS notes, code samples, and references** I personally use whether during 1-on-1 lessons, workshops, or guided self-learning.
 
 It's a growing collection of **simplified explanations**, **annotated code examples**, and **deep dives** into essential web development concepts.
 
